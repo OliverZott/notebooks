@@ -21,6 +21,9 @@
     # C# kernel (for classic Jupyter web client too)
     dotnet tool install -g Microsoft.dotnet-interactive
     dotnet interactive jupyter install
+
+    # Check
+    jupyter kernelspec list
     ```
 
 ## Run / Debug

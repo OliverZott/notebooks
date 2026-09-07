@@ -26,6 +26,13 @@
     jupyter kernelspec list
     ```
 
+- `pip install jupyterlab`
+- `python.exe -m pip install --upgrade pip`
+- `dotnet tool install --global Microsoft.dotnet-interactive`
+- `dotnet interactive jupyter install`
+- `jupyter kernelspec list`
+- `mkdir <this-repo>`
+
 ## Run / Debug
 
 - Select respective kernels in notebooks
